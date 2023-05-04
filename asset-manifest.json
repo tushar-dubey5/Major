@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e30ea984.css",
+    "main.js": "/static/js/main.d30f12dc.js",
+    "static/media/NaughtyVishal.jpg": "/static/media/NaughtyVishal.bddba9ec39ae98ec1873.jpg",
+    "index.html": "/index.html",
+    "main.e30ea984.css.map": "/static/css/main.e30ea984.css.map",
+    "main.d30f12dc.js.map": "/static/js/main.d30f12dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30ea984.css",
+    "static/js/main.d30f12dc.js"
+  ]
+}
